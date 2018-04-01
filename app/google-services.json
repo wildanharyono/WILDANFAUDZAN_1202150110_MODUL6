@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "576907907873",
+    "firebase_url": "https://tpmodul6.firebaseio.com",
+    "project_id": "tpmodul6",
+    "storage_bucket": "tpmodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576907907873:android:a8da41fc4b8caec2",
+        "android_client_info": {
+          "package_name": "com.example.haryono.wildanharyono_1202150110_modul6_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576907907873-sgf3gvm66eqkt1mej8d67bk46s3vf78g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AgZ1myHgontGWMF5nGgrgab6sa3V97E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
